@@ -21,6 +21,7 @@ import java.net.URLConnection;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     Button write_external;
     Button read_external;
+    Button test;
     ImageView imageView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
